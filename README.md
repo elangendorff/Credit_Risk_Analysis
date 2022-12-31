@@ -25,7 +25,7 @@ The analysis made use of the following software:
 
 ## Analysis
 
-We analyzed date from over 68,000 loan applications from the first quarter of 2019. 75% of this data was used to train the algorithms to determine the risk level (high or low) of an application; the remaining 25% was used to test each model's predictive effectiveness after training.
+We analyzed data from over 68,000 loan applications from the first quarter of 2019. 75% of this data was used to train the algorithms to determine the risk level (high or low) of an application; the remaining 25% was used to test each model's predictive effectiveness after training.
 
 Each model examined 95 features from the loans in its training and predicting process, and three statistics were considered: accuracy, precision, and recall. Precision and recall were further subdivided by high-risk and low-risk loan classifications, for a final tally of five considered statistics in total.
 
